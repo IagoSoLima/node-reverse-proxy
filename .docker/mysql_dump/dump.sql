@@ -1,4 +1,4 @@
-USE nodedb
+USE nodedb;
 
 CREATE TABLE people (
   id INT auto_increment NOT NULL,
